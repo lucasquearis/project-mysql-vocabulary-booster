@@ -18,4 +18,4 @@ Esse foi meu segundo projeto manipulando querys em MySql aqui na [Trybe](https:/
 - Stored Functions e Store Procedures
 - Triggers
 
-[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-mysql-all-for-one/blob/master/readmeOriginalProject.md);
+[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-mysql-vocabulary-booster/blob/master/readmeOriginalProject.md);
